@@ -1,2 +1,0 @@
-# theWallFrontEnd
-Created with CodeSandbox
